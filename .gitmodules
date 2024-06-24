@@ -7,3 +7,6 @@
 [submodule "plugins/tmux"]
 	path = plugins/tmux
 	url = https://git::@github.com/catppuccin/tmux
+[submodule "plugins/tmux-kanagawa"]
+	path = plugins/tmux-kanagawa
+	url = https://git::@github.com/Nybkox/tmux-kanagawa
